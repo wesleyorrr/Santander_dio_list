@@ -1,0 +1,2 @@
+rootProject.name = "Santander_dio_list"
+include ':app'

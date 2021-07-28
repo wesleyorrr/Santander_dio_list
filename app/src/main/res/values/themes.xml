@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Santander_dio_list" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">#FA0303</item>
+        <item name="colorPrimaryDark">#FA0303</item>
+
+        <item name="colorSecondary">#FA0303</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+
+    </style>
+</resources>
