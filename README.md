@@ -1,4 +1,4 @@
-# Santander_dio_list
+# Santander
 <p align="center">Esse projeto é uma aplicação  de Lista de Tarefas desenvolvido em Kotlin para o Bootcamp Santander. Nesse aplicativo o usuário final pode Planejar suas Tarefas..</p>
 <h3>Imagem do Projeto</h3>
 
